@@ -1,3 +1,10 @@
+/**
+ * File      : MOperasiTitik.java		        01/03/23
+ * Penulis   : Aprilyanto Setiyawan Siburian
+ * Deskripsi : Kelas yang berisi main dari MOperasiTitik
+ * 
+ */
+
 public class MOperasiTitik {
     public static void main(String[] args)
     {
