@@ -1,6 +1,6 @@
 /**
- * File      : MTitik.java		01/03/23
- * Penulis   : Fahrel Gibran Alghany
+ * File      : MTitik.java		 01/03/23
+ * Penulis   : Aprilyanto Setiyawan Siburian
  * Deskripsi : Kelas yang berisi main dari MTitik
  * 
  */
