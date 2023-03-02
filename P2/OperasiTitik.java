@@ -1,3 +1,10 @@
+/**
+ * File      : OperasiTitik.java		       01/03/23
+ * Penulis   : Aprilyanto Setiyawan Siburian
+ * Deskripsi : Kelas yang berisi main dari OperasiTitik
+ * 
+ */
+
 public class OperasiTitik {
 
     public void refleksiSumbuX(Titik titik)
