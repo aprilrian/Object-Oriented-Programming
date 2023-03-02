@@ -1,3 +1,10 @@
+/**
+ * File      : Titik.java		01/03/23
+ * Penulis   : Aprilyanto Setiyawan Siburian
+ * Deskripsi : Kelas yang berisi main dari Titik
+ * 
+ */
+
 class Titik
 {
 	double absis; //atribut
