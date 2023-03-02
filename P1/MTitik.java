@@ -1,3 +1,10 @@
+/**
+ * File      : MTitik.java		01/03/23
+ * Penulis   : Fahrel Gibran Alghany
+ * Deskripsi : Kelas yang berisi main dari MTitik
+ * 
+ */
+
 class MTitik
 {
 	public static void main(String[] args)
