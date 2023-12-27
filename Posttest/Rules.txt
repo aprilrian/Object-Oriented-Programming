@@ -1,0 +1,6 @@
+Rules:
+1. Waktu 30 menit
+2. Boleh buka dokumentasi Java di internet
+3. Boleh buka materi PBO dan praktikum sebelumnya
+4. Gak boleh pake chatGPT, Bing AI chat, dan sejenisnya
+5. Gak boleh tanya temen apalagi copas kodingan temen
